@@ -2,23 +2,23 @@
 *
 * Itagaki Fumihiko 26-Feb-93  Create.
 * 1.0
-* Itagaki Fumihiko 04-Jan-94  Å“K‰»‚Æ‚‘¬‰»
-* Itagaki Fumihiko 04-Jan-94  Šg’£ƒVƒtƒgJIS‚ğ‰Á‚¦‚é
-* Itagaki Fumihiko 06-Jan-94  count ‚ğ•¶š”‚Æ‚·‚é‚Ì‚ğ‚â‚ß‚ÄƒoƒCƒg”‚Æ‚µ‚½
-* Itagaki Fumihiko 06-Jan-94  ƒAƒ‹ƒSƒŠƒYƒ€‚ğ‘å•‚É•ÏX
-* Itagaki Fumihiko 06-Jan-94  ‚½‚Æ‚¦‚Î -sw’èA92 83 80 42 43 44 0D 0A ‚ğƒXƒLƒƒƒ“‚·‚é‚Æ
-*                             v1.0 ‚Å‚ÍC9283(’ƒ) ‚ÌŸ‚Ì 80 ‚Å fail ‚µ‚ÄC‚»‚±‚Ü‚Å‚ğÌ‚ÄC
-*                             Ÿ‚É‚Í 42 ‚©‚çƒXƒLƒƒƒ“‚µ‚Ä‚¢‚½D
-*                             ‚±‚ê‚ğC83 ‚©‚çƒXƒLƒƒƒ“‚µ‚È‚¨‚·‚æ‚¤‚ÉC³‚µC
-*                             8380(ƒ€)42(A)43(B)44(C) ‚ğ•¶š—ñ‚Æ‚µ‚ÄŒŸ’m‚·‚é‚æ‚¤‚É‚µ‚½D
-* Itagaki Fumihiko 03-Apr-94  UJIS‚ÌƒR[ƒhƒZƒbƒg2i1ƒoƒCƒgƒJƒij‚ÆƒR[ƒhƒZƒbƒg3iŠOšj‚ğ’Ç‰Á
-* Itagaki Fumihiko 17-Sep-94  -tƒIƒvƒVƒ‡ƒ“‚ğ’Ç‰Á
-* Itagaki Fumihiko 17-Sep-94  -nƒIƒvƒVƒ‡ƒ“‚ğ’Ç‰Á
+* Itagaki Fumihiko 04-Jan-94  æœ€é©åŒ–ã¨é«˜é€ŸåŒ–
+* Itagaki Fumihiko 04-Jan-94  æ‹¡å¼µã‚·ãƒ•ãƒˆJISã‚’åŠ ãˆã‚‹
+* Itagaki Fumihiko 06-Jan-94  count ã‚’æ–‡å­—æ•°ã¨ã™ã‚‹ã®ã‚’ã‚„ã‚ã¦ãƒã‚¤ãƒˆæ•°ã¨ã—ãŸ
+* Itagaki Fumihiko 06-Jan-94  ã‚¢ãƒ«ã‚´ãƒªã‚ºãƒ ã‚’å¤§å¹…ã«å¤‰æ›´
+* Itagaki Fumihiko 06-Jan-94  ãŸã¨ãˆã° -sæŒ‡å®šæ™‚ã€92 83 80 42 43 44 0D 0A ã‚’ã‚¹ã‚­ãƒ£ãƒ³ã™ã‚‹ã¨
+*                             v1.0 ã§ã¯ï¼Œ9283(èŒ¶) ã®æ¬¡ã® 80 ã§ fail ã—ã¦ï¼Œãã“ã¾ã§ã‚’æ¨ã¦ï¼Œ
+*                             æ¬¡ã«ã¯ 42 ã‹ã‚‰ã‚¹ã‚­ãƒ£ãƒ³ã—ã¦ã„ãŸï¼
+*                             ã“ã‚Œã‚’ï¼Œ83 ã‹ã‚‰ã‚¹ã‚­ãƒ£ãƒ³ã—ãªãŠã™ã‚ˆã†ã«ä¿®æ­£ã—ï¼Œ
+*                             8380(ãƒ )42(A)43(B)44(C) ã‚’æ–‡å­—åˆ—ã¨ã—ã¦æ¤œçŸ¥ã™ã‚‹ã‚ˆã†ã«ã—ãŸï¼
+* Itagaki Fumihiko 03-Apr-94  UJISã®ã‚³ãƒ¼ãƒ‰ã‚»ãƒƒãƒˆ2ï¼ˆ1ãƒã‚¤ãƒˆã‚«ãƒŠï¼‰ã¨ã‚³ãƒ¼ãƒ‰ã‚»ãƒƒãƒˆ3ï¼ˆå¤–å­—ï¼‰ã‚’è¿½åŠ 
+* Itagaki Fumihiko 17-Sep-94  -tã‚ªãƒ—ã‚·ãƒ§ãƒ³ã‚’è¿½åŠ 
+* Itagaki Fumihiko 17-Sep-94  -nã‚ªãƒ—ã‚·ãƒ§ãƒ³ã‚’è¿½åŠ 
 * 1.1
-* Itagaki Fumihiko 30-Sep-94  o—Í‚ª’[––‚Å‚È‚¢‚Æ³í‚É“®ì‚µ‚È‚¢•s‹ï‡i1.1‚Å‚ÌƒGƒ“ƒoƒOj‚ğC³
+* Itagaki Fumihiko 30-Sep-94  å‡ºåŠ›ãŒç«¯æœ«ã§ãªã„ã¨æ­£å¸¸ã«å‹•ä½œã—ãªã„ä¸å…·åˆï¼ˆ1.1ã§ã®ã‚¨ãƒ³ãƒã‚°ï¼‰ã‚’ä¿®æ­£
 * 1.2
 *
-* Usage: strings [-asuqvo] [-t {doxX}] [-n <N>] [-<N>] [--] [<ƒtƒ@ƒCƒ‹>] ...
+* Usage: strings [-asuqvo] [-t {doxX}] [-n <N>] [-<N>] [--] [<ãƒ•ã‚¡ã‚¤ãƒ«>] ...
 
 .include doscall.h
 .include chrcode.h
@@ -64,8 +64,8 @@ start:
 		dc.b	'#HUPAIR',0
 start1:
 		lea	bss_top(pc),a6
-		lea	stack_bottom(a6),a7		*  A7 := ƒXƒ^ƒbƒN‚Ì’ê
-		lea	$10(a0),a0			*  A0 : PDBƒAƒhƒŒƒX
+		lea	stack_bottom(a6),a7		*  A7 := ã‚¹ã‚¿ãƒƒã‚¯ã®åº•
+		lea	$10(a0),a0			*  A0 : PDBã‚¢ãƒ‰ãƒ¬ã‚¹
 		move.l	a7,d0
 		sub.l	a0,d0
 		move.l	d0,-(a7)
@@ -75,23 +75,23 @@ start1:
 	*
 		move.l	#-1,stdin(a6)
 	*
-	*  ˆø”•À‚ÑŠi”[ƒGƒŠƒA‚ğŠm•Û‚·‚é
+	*  å¼•æ•°ä¸¦ã³æ ¼ç´ã‚¨ãƒªã‚¢ã‚’ç¢ºä¿ã™ã‚‹
 	*
-		lea	1(a2),a0			*  A0 := ƒRƒ}ƒ“ƒhƒ‰ƒCƒ“‚Ì•¶š—ñ‚Ìæ“ªƒAƒhƒŒƒX
-		bsr	strlen				*  D0.L := ƒRƒ}ƒ“ƒhƒ‰ƒCƒ“‚Ì•¶š—ñ‚Ì’·‚³
+		lea	1(a2),a0			*  A0 := ã‚³ãƒãƒ³ãƒ‰ãƒ©ã‚¤ãƒ³ã®æ–‡å­—åˆ—ã®å…ˆé ­ã‚¢ãƒ‰ãƒ¬ã‚¹
+		bsr	strlen				*  D0.L := ã‚³ãƒãƒ³ãƒ‰ãƒ©ã‚¤ãƒ³ã®æ–‡å­—åˆ—ã®é•·ã•
 		addq.l	#1,d0
 		bsr	malloc
 		bmi	insufficient_memory
 
-		movea.l	d0,a1				*  A1 := ˆø”•À‚ÑŠi”[ƒGƒŠƒA‚Ìæ“ªƒAƒhƒŒƒX
+		movea.l	d0,a1				*  A1 := å¼•æ•°ä¸¦ã³æ ¼ç´ã‚¨ãƒªã‚¢ã®å…ˆé ­ã‚¢ãƒ‰ãƒ¬ã‚¹
 	*
-	*  ˆø”‚ğƒfƒR[ƒh‚µC‰ğß‚·‚é
+	*  å¼•æ•°ã‚’ãƒ‡ã‚³ãƒ¼ãƒ‰ã—ï¼Œè§£é‡ˆã™ã‚‹
 	*
-		moveq	#0,d6				*  D6.W : ƒGƒ‰[EƒR[ƒh
-		bsr	DecodeHUPAIR			*  ˆø”‚ğƒfƒR[ƒh‚·‚é
-		movea.l	a1,a0				*  A0 : ˆø”ƒ|ƒCƒ“ƒ^
-		move.l	d0,d7				*  D7.L : ˆø”ƒJƒEƒ“ƒ^
-		moveq	#0,d5				*  D5.B : ƒtƒ‰ƒO
+		moveq	#0,d6				*  D6.W : ã‚¨ãƒ©ãƒ¼ãƒ»ã‚³ãƒ¼ãƒ‰
+		bsr	DecodeHUPAIR			*  å¼•æ•°ã‚’ãƒ‡ã‚³ãƒ¼ãƒ‰ã™ã‚‹
+		movea.l	a1,a0				*  A0 : å¼•æ•°ãƒã‚¤ãƒ³ã‚¿
+		move.l	d0,d7				*  D7.L : å¼•æ•°ã‚«ã‚¦ãƒ³ã‚¿
+		moveq	#0,d5				*  D5.B : ãƒ•ãƒ©ã‚°
 		move.l	#DEFAULT_MINIMUM_LENGTH,minimum_length(a6)
 		move.l	#DEFAULT_MINIMUM_LENGTH+MAX_LETTER_SIZE-1,minimum_refill_length(a6)
 decode_opt_loop1:
@@ -263,14 +263,14 @@ too_few_args:
 
 decode_opt_done:
 	*
-	*  “üo—Íƒoƒbƒtƒ@‚ğŠm•Û‚·‚é
+	*  å…¥å‡ºåŠ›ãƒãƒƒãƒ•ã‚¡ã‚’ç¢ºä¿ã™ã‚‹
 	*
-		moveq	#1,d0				*  o—Í‚Í
-		bsr	is_chrdev			*  ƒLƒƒƒ‰ƒNƒ^EƒfƒoƒCƒX‚©H
+		moveq	#1,d0				*  å‡ºåŠ›ã¯
+		bsr	is_chrdev			*  ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ»ãƒ‡ãƒã‚¤ã‚¹ã‹ï¼Ÿ
 		seq	do_buffering
-		bne	outbuf_ok			*  -- ƒLƒƒƒ‰ƒNƒ^EƒfƒoƒCƒX‚Å‚ ‚é
+		bne	outbuf_ok			*  -- ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ»ãƒ‡ãƒã‚¤ã‚¹ã§ã‚ã‚‹
 
-		*  o—Íƒoƒbƒtƒ@‚ğŠm•Û‚·‚é
+		*  å‡ºåŠ›ãƒãƒƒãƒ•ã‚¡ã‚’ç¢ºä¿ã™ã‚‹
 		move.l	#OUTBUF_SIZE,d0
 		move.l	d0,outbuf_free
 		bsr	malloc
@@ -279,7 +279,7 @@ decode_opt_done:
 		move.l	d0,outbuf_top
 		move.l	d0,outbuf_ptr
 outbuf_ok:
-		*  “ü—Íƒoƒbƒtƒ@‚ğŠm•Û‚·‚é
+		*  å…¥åŠ›ãƒãƒƒãƒ•ã‚¡ã‚’ç¢ºä¿ã™ã‚‹
 		move.l	#$00ffffff,d0
 		bsr	malloc
 		sub.l	#$81000000,d0
@@ -314,20 +314,20 @@ inpbuf_ok:
 		shi	show_header(a6)
 do_files:
 	*
-	*  •W€“ü—Í‚ğØ‚è‘Ö‚¦‚é
+	*  æ¨™æº–å…¥åŠ›ã‚’åˆ‡ã‚Šæ›¿ãˆã‚‹
 	*
-		clr.w	-(a7)				*  •W€“ü—Í‚ğ
-		DOS	_DUP				*  •¡»‚µ‚½ƒnƒ“ƒhƒ‹‚©‚ç“ü—Í‚µC
+		clr.w	-(a7)				*  æ¨™æº–å…¥åŠ›ã‚’
+		DOS	_DUP				*  è¤‡è£½ã—ãŸãƒãƒ³ãƒ‰ãƒ«ã‹ã‚‰å…¥åŠ›ã—ï¼Œ
 		addq.l	#2,a7
 		move.l	d0,stdin(a6)
 		bmi	start_do_files
 
 		clr.w	-(a7)
-		DOS	_CLOSE				*  •W€“ü—Í‚ÍƒNƒ[ƒY‚·‚éD
-		addq.l	#2,a7				*  ‚±‚¤‚µ‚È‚¢‚Æ ^C ‚â ^S ‚ªŒø‚©‚È‚¢
+		DOS	_CLOSE				*  æ¨™æº–å…¥åŠ›ã¯ã‚¯ãƒ­ãƒ¼ã‚ºã™ã‚‹ï¼
+		addq.l	#2,a7				*  ã“ã†ã—ãªã„ã¨ ^C ã‚„ ^S ãŒåŠ¹ã‹ãªã„
 start_do_files:
 	*
-	*  ŠJn
+	*  é–‹å§‹
 	*
 		tst.l	d7
 		beq	do_stdin
@@ -376,10 +376,10 @@ exit_program:
 		move.l	stdin(a6),d0
 		bmi	exit_program_1
 
-		clr.w	-(a7)				*  •W€“ü—Í‚ğ
-		move.w	d0,-(a7)			*  Œ³‚É
-		DOS	_DUP2				*  –ß‚·D
-		DOS	_CLOSE				*  •¡»‚ÍƒNƒ[ƒY‚·‚éD
+		clr.w	-(a7)				*  æ¨™æº–å…¥åŠ›ã‚’
+		move.w	d0,-(a7)			*  å…ƒã«
+		DOS	_DUP2				*  æˆ»ã™ï¼
+		DOS	_CLOSE				*  è¤‡è£½ã¯ã‚¯ãƒ­ãƒ¼ã‚ºã™ã‚‹ï¼
 exit_program_1:
 		move.w	d6,-(a7)
 		DOS	_EXIT2
@@ -404,8 +404,8 @@ strings_one:
 		lea	msg_header3(pc),a0
 		bsr	puts
 strings_one_1:
-		*  æ“ª‚ÉƒV[ƒN‚µ‚Ä‚¨‚­
-		*  ‚Â‚¢‚Å‚ÉCƒV[ƒN‰Â”\‚©‚Ç‚¤‚©’²‚×‚é
+		*  å…ˆé ­ã«ã‚·ãƒ¼ã‚¯ã—ã¦ãŠã
+		*  ã¤ã„ã§ã«ï¼Œã‚·ãƒ¼ã‚¯å¯èƒ½ã‹ã©ã†ã‹èª¿ã¹ã‚‹
 		st	d1
 		moveq	#1,d0
 		bsr	seek_absolute
@@ -427,9 +427,9 @@ strings_one_3:
 		btst	#FLAG_a,d5
 		bne	strings_one_loop
 
-		move.l	#X_HEADER_SIZE,d0		*  .Xƒ^ƒCƒvƒtƒ@ƒCƒ‹‚Ìƒwƒbƒ_‚Ì’·‚³‚¾‚¯
-		bsr	read				*  “Ç‚İ‚ñ‚Å
-		*  .Xƒ^ƒCƒvƒtƒ@ƒCƒ‹‚©‚Ç‚¤‚©‚ğ’²‚×‚é
+		move.l	#X_HEADER_SIZE,d0		*  .Xã‚¿ã‚¤ãƒ—ãƒ•ã‚¡ã‚¤ãƒ«ã®ãƒ˜ãƒƒãƒ€ã®é•·ã•ã ã‘
+		bsr	read				*  èª­ã¿è¾¼ã‚“ã§
+		*  .Xã‚¿ã‚¤ãƒ—ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã©ã†ã‹ã‚’èª¿ã¹ã‚‹
 		cmp.l	#X_HEADER_SIZE,d0
 		blo	strings_one_loop
 
@@ -439,7 +439,7 @@ strings_one_3:
 		cmpi.b	#'U',1(a2)
 		bne	strings_one_loop
 
-		*  .Xƒ^ƒCƒvƒtƒ@ƒCƒ‹ -- data section ‚¾‚¯‚ğƒXƒLƒƒƒ“‚·‚é
+		*  .Xã‚¿ã‚¤ãƒ—ãƒ•ã‚¡ã‚¤ãƒ« -- data section ã ã‘ã‚’ã‚¹ã‚­ãƒ£ãƒ³ã™ã‚‹
 		bsr	reset_inpbuf
 		move.l	$10(a2),scan_size(a6)
 		move.l	d0,scan_offset(a6)
@@ -475,7 +475,7 @@ skip_text_section_1:
 		bne	skip_text_section_loop
 strings_one_loop:
 		*
-		*  ƒXƒLƒƒƒ“
+		*  ã‚¹ã‚­ãƒ£ãƒ³
 		*
 		move.l	minimum_refill_length(a6),d1
 		bsr	refill_buffer
@@ -531,10 +531,10 @@ check_buffer_ok:
 
 		movem.l	d1-d2/a2,-(a7)
 		move.l	scan_offset(a6),d0
-		moveq	#0,d1				*  ‰E‹l‚ß
-		moveq	#' ',d2				*  pad•¶š
-		moveq	#7,d3				*  Å¬ƒtƒB[ƒ‹ƒh•
-		moveq	#1,d4				*  Å¬•ÏŠ·Œ…”
+		moveq	#0,d1				*  å³è©°ã‚
+		moveq	#' ',d2				*  padæ–‡å­—
+		moveq	#7,d3				*  æœ€å°ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰å¹…
+		moveq	#1,d4				*  æœ€å°å¤‰æ›æ¡æ•°
 		movea.l	format(a6),a0
 		lea	putc(pc),a1			*  output function
 		suba.l	a2,a2				*  prefix string
@@ -716,14 +716,14 @@ reset_inpbuf:
 * refill_buffer
 *
 * CALL
-*      A2     ƒf[ƒ^æ“ªƒAƒhƒŒƒX
-*      D1.L   •K—v‚Æ‚·‚éƒoƒCƒg”
+*      A2     ãƒ‡ãƒ¼ã‚¿å…ˆé ­ã‚¢ãƒ‰ãƒ¬ã‚¹
+*      D1.L   å¿…è¦ã¨ã™ã‚‹ãƒã‚¤ãƒˆæ•°
 *
 * RETURN
-*      A2     V‚µ‚¢ƒf[ƒ^æ“ªƒAƒhƒŒƒX
+*      A2     æ–°ã—ã„ãƒ‡ãƒ¼ã‚¿å…ˆé ­ã‚¢ãƒ‰ãƒ¬ã‚¹
 *
 * DESCRIPTION
-*      D2 ‚ª D1 –¢–‚È‚çƒf[ƒ^‚ğ“Ç‚İ‘«‚·
+*      D2 ãŒ D1 æœªæº€ãªã‚‰ãƒ‡ãƒ¼ã‚¿ã‚’èª­ã¿è¶³ã™
 *****************************************************************
 refill_buffer:
 		cmp.l	d1,d2
@@ -731,7 +731,7 @@ refill_buffer:
 
 		move.l	inpbuf_top(a6),d0
 		add.l	inpbuf_size(a6),d0
-		sub.l	a2,d0				*  D0.L : D2 + ‹ó‚«—e—Ê
+		sub.l	a2,d0				*  D0.L : D2 + ç©ºãå®¹é‡
 		cmp.l	d1,d0
 		bhs	refill_buffer_read
 
@@ -742,7 +742,7 @@ refill_buffer:
 		bsr	memmovi
 		move.l	inpbuf_size(a6),d0
 refill_buffer_read:
-		sub.l	d2,d0				*  D0.L : ‹ó‚«—e—Ê
+		sub.l	d2,d0				*  D0.L : ç©ºãå®¹é‡
 		bsr	read
 refill_buffer_return:
 		rts
@@ -750,15 +750,15 @@ refill_buffer_return:
 * read
 * 
 * CALL
-*      A2     ƒf[ƒ^æ“ªƒAƒhƒŒƒX
-*      D0.L   “Ç‚İ‚ŞƒoƒCƒg”
+*      A2     ãƒ‡ãƒ¼ã‚¿å…ˆé ­ã‚¢ãƒ‰ãƒ¬ã‚¹
+*      D0.L   èª­ã¿è¾¼ã‚€ãƒã‚¤ãƒˆæ•°
 *
 * RETURN
-*      D0.L   “Ç‚İ‚ñ‚¾ƒoƒCƒg”
-*      D2.L   RETURN ‚Ì D0.L ‚ª‰ÁZ‚³‚ê‚é
+*      D0.L   èª­ã¿è¾¼ã‚“ã ãƒã‚¤ãƒˆæ•°
+*      D2.L   RETURN ã® D0.L ãŒåŠ ç®—ã•ã‚Œã‚‹
 *
 * DESCRIPTION
-*      A2 + D2 ƒAƒhƒŒƒX‚É D0.L ƒoƒCƒg“Ç‚İ‚Ş
+*      A2 + D2 ã‚¢ãƒ‰ãƒ¬ã‚¹ã« D0.L ãƒã‚¤ãƒˆèª­ã¿è¾¼ã‚€
 *****************************************************************
 read:
 		btst	#FLAG_eof,d5
@@ -928,19 +928,19 @@ malloc:
 	dc.b	'## strings 1.2 ##  Copyright(C)1993-94 by Itagaki Fumihiko',0
 
 msg_myname:		dc.b	'strings: ',0
-msg_no_memory:		dc.b	'ƒƒ‚ƒŠ‚ª‘«‚è‚Ü‚¹‚ñ',CR,LF,0
-msg_open_fail:		dc.b	': ƒI[ƒvƒ“‚Å‚«‚Ü‚¹‚ñ',CR,LF,0
-msg_read_fail:		dc.b	': “ü—ÍƒGƒ‰[',CR,LF,0
-msg_write_fail:		dc.b	'strings: o—ÍƒGƒ‰[',CR,LF,0
-msg_stdin:		dc.b	'- •W€“ü—Í -',0
-msg_bad_option:		dc.b	'•s³‚ÈƒIƒvƒVƒ‡ƒ“ -- ',0
-msg_too_few_args:	dc.b	'ˆø”‚ª‘«‚è‚Ü‚¹‚ñ',0
-msg_bad_arg:		dc.b	'ˆø”‚ª•s³‚Å‚·',0
+msg_no_memory:		dc.b	'ãƒ¡ãƒ¢ãƒªãŒè¶³ã‚Šã¾ã›ã‚“',CR,LF,0
+msg_open_fail:		dc.b	': ã‚ªãƒ¼ãƒ—ãƒ³ã§ãã¾ã›ã‚“',CR,LF,0
+msg_read_fail:		dc.b	': å…¥åŠ›ã‚¨ãƒ©ãƒ¼',CR,LF,0
+msg_write_fail:		dc.b	'strings: å‡ºåŠ›ã‚¨ãƒ©ãƒ¼',CR,LF,0
+msg_stdin:		dc.b	'- æ¨™æº–å…¥åŠ› -',0
+msg_bad_option:		dc.b	'ä¸æ­£ãªã‚ªãƒ—ã‚·ãƒ§ãƒ³ -- ',0
+msg_too_few_args:	dc.b	'å¼•æ•°ãŒè¶³ã‚Šã¾ã›ã‚“',0
+msg_bad_arg:		dc.b	'å¼•æ•°ãŒä¸æ­£ã§ã™',0
 msg_header1:		dc.b	CR,LF
 msg_header2:		dc.b	'==> ',0
 msg_header3:		dc.b	' <=='
 msg_newline:		dc.b	CR,LF,0
-msg_usage:		dc.b	CR,LF,'g—p–@:  strings [-asuqvo] [-t {doxX}] [-n <N>] [-<N>] [--] [<ƒtƒ@ƒCƒ‹>] ...',CR,LF,0
+msg_usage:		dc.b	CR,LF,'ä½¿ç”¨æ³•:  strings [-asuqvo] [-t {doxX}] [-n <N>] [-<N>] [--] [<ãƒ•ã‚¡ã‚¤ãƒ«>] ...',CR,LF,0
 *****************************************************************
 .offset 0
 stdin:			ds.l	1
